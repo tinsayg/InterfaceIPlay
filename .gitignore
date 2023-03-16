@@ -1,0 +1,11 @@
+
+*.vsidx
+*.lock
+IPlay Interface/.vs/IPlay Interface/v17/.suo
+*.config
+*.exe
+*.pdb
+*.csproj
+*.sln
+*.cache
+*.txt
